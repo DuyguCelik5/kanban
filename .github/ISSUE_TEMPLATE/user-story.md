@@ -15,7 +15,7 @@ assignees: ''
  * [document what you know]
    
  ### Acceptance Criteria
-```gherkin
+```Gherkin
 Given
 When
 Then
